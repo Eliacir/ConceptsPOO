@@ -1,4 +1,6 @@
-﻿namespace ConceptsPOO
+﻿
+using ConceptsPOO.Exceptions;
+namespace ConceptsPOO
 {
     public class Date
     {

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace ConceptsPOO
+namespace ConceptsPOO.Exceptions
 {
     [Serializable]
     internal class MonthException : Exception
